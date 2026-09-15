@@ -68,20 +68,6 @@ Masukkan konfigurasi berikut pada aplikasi klien **RustDesk** Anda (`Settings > 
 ID/Relay Server: 103.155.191.254
 Public Key     : Dir6U4JXUOKDeACqRwXhnv+QrxEMAuLcP7zdI9le3LU=
 ```
-
----
-
-## 📂 Repositori & Otomasi
-
-Organisasi ini mengelola berbagai skrip konfigurasi, template *provisioning*, dan utilitas jaringan:
-
-| Repositori | Kategori | Deskripsi | Status |
-| :--- | :--- | :--- | :---: |
-| [`juniper-generator`](https://github.com/santainetwork) | **Automation** | Generator konfigurasi BGP, prefix-list, dan firewall Juniper (Alsava Edition) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| [`vpn-automation`](https://github.com/santainetwork) | **Infrastructure** | Skrip *deployment* dan provision node VPN (`setup-debian.sh`, `ipv6-tunnel.sh`) | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| [`mikrotik-configs`](https://github.com/santainetwork) | **RouterOS** | Template skrip integrasi RouterOS (`mikrotik.rsc`) ke ekosistem SantaiNetwork | ![Maintained](https://img.shields.io/badge/Maintained-blue?style=flat-square) |
-| [`homelab-services`](https://github.com/santainetwork) | **Self-Hosted** | Docker Compose & konfigurasi server relay, monitoring, serta telemetri | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-
 ---
 
 ## 🛠️ Stack & Teknologi
